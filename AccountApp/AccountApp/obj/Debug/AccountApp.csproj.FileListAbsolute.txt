@@ -1,0 +1,9 @@
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.csprojResolveAssemblyReference.cache
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.AccountUI.resources
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+G:\SADDAM HOSSAIN RANA\AccountApp\AccountApp\obj\Debug\AccountApp.pdb

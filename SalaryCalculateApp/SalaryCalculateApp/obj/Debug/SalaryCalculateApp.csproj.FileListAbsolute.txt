@@ -1,0 +1,9 @@
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.exe.config
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.exe
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.pdb
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.csprojResolveAssemblyReference.cache
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.SalaryCalculatorUI.resources
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.exe
+G:\SADDAM HOSSAIN RANA\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.pdb

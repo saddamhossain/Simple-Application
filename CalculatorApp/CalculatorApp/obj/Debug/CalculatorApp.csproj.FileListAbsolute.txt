@@ -1,0 +1,8 @@
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+G:\SADDAM HOSSAIN RANA\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

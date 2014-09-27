@@ -1,0 +1,8 @@
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+G:\SADDAM HOSSAIN RANA\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
